@@ -1,0 +1,7 @@
+iPhone 3G challenge - crash DFU.
+
+i tought this would be easy, write to non-existent memory, boom crash. but boy was i wrong.
+i learned a lot about IMG3's , DFU mode commands , how memory in iPhone actually works.
+im currently stuck at debbuging, i feel like if i wanna actually crash this dfu. i gotta use UART to debug.
+cant use uart cause it is 2022 and pod breakout v1.5 is no more .
+so i will try tomorrow to find a motherboard way to do this.
